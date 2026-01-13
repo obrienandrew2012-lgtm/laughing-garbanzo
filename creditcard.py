@@ -1,5 +1,5 @@
 print("Welcome to Credit Card Application Simulator!")
-print(age)
+input(age)
 age = int(input("please enter age here... "))
 elif age == 0: input("YOU HAVENT BEEN BORN YET!! GET BORN!")
 if age <<18: input("YOU ARENT ABLE TO GET A CREDIT CARD BUCKO GOODBYE PRESS ENTER TO LEAVE")
